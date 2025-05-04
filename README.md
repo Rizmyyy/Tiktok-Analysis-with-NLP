@@ -19,7 +19,7 @@ Proyek ini bertujuan untuk menganalisis sentimen dari ulasan pengguna terhadap p
 ## 🚀 Cara Menjalankan Proyek
 1. Clone Repository melalui Command Prompt
 cmd:
-   git clone https://github.com/Rizmyyy/TiktokShop-Analysis-with-NLP.git
+   git clone https://github.com/Rizmyyy/Tiktok-Analysis-with-NLP.git
    cd nama-repo
    
 Install semua dependensi (cmd):
