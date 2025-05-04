@@ -1,0 +1,13 @@
+Produk,Ulasan,Rating,Tanggal,Ulasan_English,sentiment_score,sentiment_label
+Sepatu Running,Sangat bagus dan ukurannya sesuai,5,2024-10-14,Very good and the size is appropriate,0.4927,Positif
+G2G Peeling Solution,"Niat nya coba-coba, Alhamdulillah cocok",5,2025-02-08,"The intention is to try, thank God it matches",0.5574,Positif
+Shacket Jaket,Ada jahitan yang ga rapi,4,2025-03-19,There is a stitch that is not neat,-0.357,Negatif
+Azarine Sunscreen,cocok di muka yang sensitif,5,04-10,Suitable in advance,0.0,Netral
+T-Shirt Polos,"Pengemasan lama, jahitan rapi, bahan tipis",4,2025-04-10,"Old packaging, neat stitches, thin material",0.4588,Positif
+Parfum MR CRSH HRNY,"Kurang tahan lama, wajar dengan harga segitu",5,2023-08-31,"Less durable, reasonable with that price",0.0,Netral
+Kaos Unisex Oversize,keren bagus banget aku suka,5,2024-12-25,really cool I like,0.6566,Positif
+Earphone Bluetooth TWS,"Kecewa banget, saya pesan hitam yg datang putih",3,2025-02-24,"Very disappointed, I ordered the black white",-0.5256,Negatif
+Huafit smartwatch GTS,Gamau nyala kak,2,2025-04-01,The Guys can be as,0.0,Netral
+Lunaraya baju couple by Hagia,ga expect sebagus ini woi bahannya adem,5,2023-04-19,"GA expect as good as this, the ingredients are cool",0.6369,Positif
+Kado hampers ulang tahun ,kado sesuai bagus bahannya,4,2024-10-23,gift according to the ingredients,0.4404,Positif
+Tas tangan wanita ayuna bag,modelnya bagus tapi talinya copot pas baru nyampe,3,2025-04-16,the model is good but the rope is dislodged when it just arrived,0.2382,Positif
