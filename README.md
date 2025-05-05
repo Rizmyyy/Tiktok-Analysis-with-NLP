@@ -1,22 +1,21 @@
 🧠 Analisis Sentimen Ulasan Produk TikTok Shop
 
-📌 Deskripsi
 Proyek ini bertujuan untuk menganalisis sentimen dari ulasan pengguna terhadap produk TikTok. Ulasan berbahasa Indonesia diterjemahkan ke dalam bahasa Inggris dan kemudian dianalisis menggunakan **VADER Sentiment Analyzer** dari NLTK. Hasil analisis diklasifikasikan menjadi sentimen **Positif**, **Negatif**, dan **Netral**, lalu divisualisasikan dalam bentuk grafik.
 
-🔧 Teknologi yang Digunakan
+Teknologi yang Digunakan
 - Python
 - pandas
 - nltk (VADER)
 - deep_translator
 - matplotlib
 
-## 📂 Struktur File
-├── Reviews.csv # Dataset ulasan TikTok
-├── Tiktok-analysis.ipynb # Notebook utama untuk analisis
-├── requirements.txt # Daftar dependensi Python
-└── README.md # Dokumentasi proyek
+ Struktur File
+1. Reviews.csv # Dataset ulasan TikTok
+2. Tiktok-analysis.ipynb # Notebook utama untuk analisis
+3. requirements.txt # Daftar dependensi Python
+4. README.md # Dokumentasi proyek
 
-## 🚀 Cara Menjalankan Proyek
+Cara Menjalankan Proyek
 1. Clone Repository melalui Command Prompt
 cmd:
    git clone https://github.com/Rizmyyy/Tiktok-Analysis-with-NLP.git
