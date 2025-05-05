@@ -28,8 +28,8 @@ Jalankan notebook:
 Buka Tiktok-analysis.ipynb menggunakan Jupyter Notebook atau JupyterLab.
 
 📊 Hasil yang Diperoleh
-Setiap ulasan diklasifikasi ke dalam sentimen:
-Positif (compound score ≥ 0.05)
-Netral (compound score antara -0.05 dan 0.05)
-Negatif (compound score ≤ -0.05)
+1. Setiap ulasan diklasifikasi ke dalam sentimen:
+   - Positif (compound score ≥ 0.05)
+   - Netral (compound score antara -0.05 dan 0.05)
+   - Negatif (compound score ≤ -0.05)
 Visualisasi menunjukkan distribusi jumlah ulasan berdasarkan kategori sentimen.
